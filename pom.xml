@@ -29,7 +29,7 @@
   </parent>
 
   <artifactId>jspringbot-db</artifactId>
-  <version>1.9-SNAPSHOT</version>
+  <version>1.10-SNAPSHOT</version>
   <name>jspringbot-db</name>
   <description>JSpringBot DB Library</description>
 
@@ -60,7 +60,7 @@
     <connection>scm:git:https://github.com/jspringbot/jspringbot-db.git</connection>
     <url>scm:git:https://github.com/jspringbot/jspringbot-db.git</url>
     <developerConnection>scm:git:https://github.com/jspringbot/jspringbot-db.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>jspringbot-db-1.9</tag>
   </scm>
 
   <developers>
